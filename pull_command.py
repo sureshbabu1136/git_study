@@ -1,4 +1,4 @@
 def welcome():
-  print("pull command")
+  print("welcome command")
 
 welcome()
